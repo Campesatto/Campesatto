@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Campesatto
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning HTML5,CSS3 E Javascript
+- 👀 I’m interested em QA 
+- 🌱 I’m currently learning Robot Framework com Python
 - 📫 How to reach me www.linkedin.com/in/vitor-campesatto-9bb6b1193
 
 ## Meu nome é Vitor Campesatto.
