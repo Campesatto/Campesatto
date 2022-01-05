@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Robot Framework com Python
 -    Tenho conhecimentos em testes manuais, testes automatizados
 - 📫 How to reach me www.linkedin.com/in/vitor-campesatto-9bb6b1193
+- Email : vitoorcamp@hotmail.com
+- Telefone : (14)99803-7626  
+- 
 
 ## Meu nome é Vitor Campesatto.
  <div>
