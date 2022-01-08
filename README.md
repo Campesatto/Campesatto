@@ -1,4 +1,4 @@
-- <h1>Olá, Eu sou Vitor Campesatto<h1/>  
+- <h1>Olá, Eu sou Vitor Campesatto 
 - 👨‍🎓 Atualmente sou formado em Gestão em TI
 - 🤓 Estou estudando Quality Assurance (QA) para ingressar na área
 - 💻 Tenho alguns conhecimentos básicos em testes manuais, automação de testes com robot framework e escrita em BDD 
