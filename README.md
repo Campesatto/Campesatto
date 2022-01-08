@@ -9,7 +9,7 @@
 - 📱 Telefone : (14)99803-7626
 
 
-## Apaixonado pelo mundo de Quality Assurance
+- Apaixonado pelo mundo de Quality Assurance
  <div>
   <a href="https://github.com/Campesatto">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Campesatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
