@@ -1,6 +1,6 @@
 - <h1>Olá, Eu sou Vitor Campesatto 
 - 👨‍🎓 Atualmente sou formado em Gestão em TI
-- 🤓 Estou estudando Quality Assurance (QA) para ingressar na área
+- 🤓 Estou me especializando em Quality Assurance (QA) para ingressar na área
 - 💻 Tenho alguns conhecimentos básicos em testes manuais, automação de testes com robot framework e escrita em BDD 
 - 🎯 Perfil www.linkedin.com/in/vitor-campesatto-9bb6b1193
 - 📧 Email : vitoorcamp@hotmail.com
