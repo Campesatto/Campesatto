@@ -1,5 +1,4 @@
-- <h1>Olá, Eu sou Vitor Campesatto<h1/>
- 
+- <h1>Olá, Eu sou Vitor Campesatto<h1/> 
  
 - 👨‍🎓 Atualmente sou formado em Gestão em TI
 - 🤓 Estou estudando Quality Assurance (QA) para ingressar na área
