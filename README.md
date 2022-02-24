@@ -1,7 +1,7 @@
 - <h1>Olá, Eu sou Vitor Campesatto 
 - 👨‍🎓 Atualmente sou formado em Gestão em TI
 - 🤓 Estou me especializando em Quality Assurance (QA) para ingressar na área
-- 💻 Tenho alguns conhecimentos em testes manuais, automação de testes com robot framework em Python e também Testes em  Java com Eclipse.
+- 💻 Tenho alguns conhecimentos em testes manuais, automação de testes com robot framework em Python e também automação de testes com Java e Selenium
 - 🎯 Perfil www.linkedin.com/in/vitor-campesatto-9bb6b1193
 - 📧 Email : vitoorcamp@hotmail.com
 - 📱 Telefone : (14)99803-7626
