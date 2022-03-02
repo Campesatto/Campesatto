@@ -35,7 +35,7 @@
 -  <strong>Teste de Caixa Preta e Caixa Branca </strong> <br>
 -  <strong>Testes Manuais </strong> <br>
 -  <strong>Projetos Ágeis com SCRUM </strong> <br>
--  <strong>Java com SeleniumWebDriver - Básico</strong>
+-  <strong>SeleniumWebDriver em Java - Básico</strong>
 </p>
 
 <br/>
