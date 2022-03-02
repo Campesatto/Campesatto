@@ -1,13 +1,13 @@
   <img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/jJJRSB0.png">
 
 
-# Vitor Campesatto
-### IT Management / QA Student
+# *Vitor Campesatto*
+### *IT Management / QA Student*
 
 
 <br>
 
-### Sobre Mim
+### *Sobre Mim*
 
 <p align="left" margin-left="10px"> 
  
@@ -27,7 +27,7 @@
 
 <br>
 
-### Skills
+### *Skills*
 
 <p align="left" margin-left="10px">
  
@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-### Contato
+### *Contato*
 
 - Perfil www.linkedin.com/in/vitor-campesatto-9bb6b1193
 - Email : vitoorcamp@hotmail.com
