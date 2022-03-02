@@ -1,24 +1,48 @@
-- <h1>Olá, Eu sou Vitor Campesatto 
-- 👨‍🎓 Atualmente sou formado em Gestão em TI
-- 🤓 Estou me especializando em Quality Assurance (QA) para ingressar na área
-- 💻 Tenho alguns conhecimentos em testes manuais, automação de testes com robot framework em Python e também automação de testes com Java e Selenium
-- 🎯 Perfil www.linkedin.com/in/vitor-campesatto-9bb6b1193
-- 📧 Email : vitoorcamp@hotmail.com
-- 📱 Telefone : (14)99803-7626
+  <img align="right" width="440" height="700" right="0px" src="https://i.imgur.com/jJJRSB0.png">
 
 
-- Apaixonado pelo mundo de Quality Assurance
- <div>
-  <a href="https://github.com/Campesatto">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Campesatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula" />
-   
+# Vitor Campesatto
+### IT Management / QA Student
+
+
+<br>
+
+### Sobre Mim
+
+<p align="left" margin-left="10px"> 
  
- ____________________________________________________________________________________________________________________________  
-</div>
-<div style = "display: inline_block"> <br>
-  <img align = "center" alt  src = "https://media.tenor.com/images/163c8b67078a28d5120d27dd0ab650fd/tenor.gif">
- <img align = "right" alt  src = "https://media.tenor.com/images/163c8b67078a28d5120d27dd0ab650fd/tenor.gif">
-</div>
-      
- ____________________________________________________________________________________________________________________________
+- Atualmente sou formado em Gestão em TI
+
+- Estou me especializando em Quality Assurance (QA) para ingressar na área
+
+- Tenho conhecimentos em testes manuais 
+ 
+- Automação de Testes com Robot Framework em Python 
+
+- Automação de Testes com SeleniumWebDriver em Java
+ 
+
+
+
+
+<br>
+
+### Skills
+
+<p align="left" margin-left="10px">
+ 
+-  <strong>Robot Framework em Python - Básico</strong> <br>
+-  <strong>Teste de Caixa Preta e Caixa Branca </strong> <br>
+-  <strong>Testes Manuais </strong> <br>
+-  <strong>Projetos Ágeis com SCRUM </strong> <br>
+-  <strong>Java com SeleniumWebDriver - Básico</strong>
+</p>
+
+<br/>
+<br/>
+
+### Contato
+
+- Perfil www.linkedin.com/in/vitor-campesatto-9bb6b1193
+- Email : vitoorcamp@hotmail.com
+- Telefone : (14)99803-7626
