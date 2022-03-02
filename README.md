@@ -12,12 +12,16 @@
 <p align="left" margin-left="10px"> 
  
 - Atualmente sou formado em Gestão em TI
+  
 
 - Estou me especializando em Quality Assurance (QA) para ingressar na área
+  
 
 - Tenho conhecimentos em testes manuais 
+  
  
 - Automação de Testes com Robot Framework em Python 
+  
 
 - Automação de Testes com SeleniumWebDriver em Java
  
