@@ -17,9 +17,9 @@
 
 - Tenho conhecimentos em testes manuais   
  
-- Automação de Testes com Robot Framework em Python 
+- Automação de Testes com Robot Framework em Python - Básico
 
-- Automação de Testes com SeleniumWebDriver em Java
+- Automação de Testes com SeleniumWebDriver em Java - Básico
  
 
 
