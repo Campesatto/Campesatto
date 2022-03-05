@@ -15,7 +15,7 @@
 
 - Estou me especializando em Quality Assurance (QA) para ingressar na área  
 
-- Tenho conhecimentos em testes manuais   
+- Tenho conhecimentos em testes manuais   - Básico
  
 - Automação de Testes com Robot Framework em Python - Básico
 
