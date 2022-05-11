@@ -15,11 +15,13 @@
 
 - Estou me especializando em Quality Assurance (QA) para ingressar na área  
 
-- Tenho conhecimentos em testes manuais   - Básico
+- Tenho conhecimentos em testes manuais com Azure DevOps   - Básico
  
 - Automação de Testes com Robot Framework em Python - Básico
 
 - Automação de Testes com SeleniumWebDriver em Java - Básico
+  
+- Testes de API com Postman - Básico
   
 - Projetos Ágeis com SCRUM
 
