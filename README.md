@@ -14,8 +14,6 @@
 - Atualmente sou graduado em Gestão em TI  
 
 - Estou me especializando em Quality Assurance (QA) para ingressar na área  
-
-- Tenho conhecimentos em testes manuais com Azure DevOps   - Básico
  
 - Automação de Testes com Robot Framework em Python - Básico
 
