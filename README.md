@@ -19,7 +19,7 @@
  
 - Automação de Testes com Robot Framework em Python - Básico
 
-- Automação de Testes com SeleniumWebDriver em Java - Básico
+- Automação de Testes Web com SeleniumWebDriver em Java - Básico
   
 - Testes de API com Postman - Básico
   
