@@ -19,7 +19,7 @@
 
 - Automação de Testes Web com SeleniumWebDriver em Java - Básico
   
-- Testes de API com Postman - Básico
+- Testes de API com Postman 
   
 - Projetos Ágeis com SCRUM
 
