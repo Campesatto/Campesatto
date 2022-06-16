@@ -11,7 +11,7 @@
 
 <p align="left" margin-left="10px"> 
  
-- Graduado em Gestão em TI e atualmente atuo como Software QA na Noesis
+- Graduado em Gestão em TI e atualmente atuo como Software QA 
 
 - Apaixonado pelo mundo de Quality Assurance (QA)  
  
