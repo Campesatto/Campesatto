@@ -39,4 +39,4 @@
 
 - Perfil : www.linkedin.com/in/vitor-campesatto-9bb6b1193
 - Email : vitoorcamp@hotmail.com
-- Telefone : (14) 99803-7626
+
