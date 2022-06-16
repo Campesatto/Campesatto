@@ -2,7 +2,7 @@
 
 
 # *Vitor Campesatto*
-### *IT Management / QA Student*
+### *Software QA*
 
 
 <br>
@@ -13,7 +13,7 @@
  
 - Atualmente sou graduado em Gestão em TI  
 
-- Estou me especializando em Quality Assurance (QA) para ingressar na área  
+- Apaixonado pelo mundo de Quality Assurance (QA)  
  
 - Automação de Testes com Robot Framework em Python - Básico
 
