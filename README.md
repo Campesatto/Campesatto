@@ -11,25 +11,26 @@
 
 <p align="left" margin-left="10px"> 
  
-- Graduado em Gestão em TI e atualmente atuo como Software QA 
+Graduated in IT Management, I currently work as Software QA
 
-- Apaixonado pelo mundo de Quality Assurance (QA)  
+Passionate about the world of QAs and technology.
+
+Hard Skills
+
+- Web/Mobile Test Automation with NTX
+- Web Test Automation with Cypress/JS
+- Postman/Endpoints
+- Azure DevOps
+- Jmeter
+- SQL for queries
+- Jira
+- Agile methodology
+- Trello
+
  
-- Automação de Testes com Robot Framework em Python - Básico
-
-- Automação de Testes Web com SeleniumWebDriver em Java - Básico
-  
-- Testes de API com Postman 
-  
-- Projetos Ágeis com SCRUM
-
-- Conceitos de Testes de Software
-  
- 
   
   
  
-
 
 <br>
 
