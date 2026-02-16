@@ -10,21 +10,15 @@
 
 <p align="left" margin-left="10px"> 
  
-Graduated in IT Management, I currently work as Software QA
+QA Automation Engineer with 3+ years of experience delivering web and API testing solutions in finance and telecom environments.
 
-Passionate about the world of QAs and technology.
+Skilled in end-to-end automation using Cypress (JavaScript).
 
-Hard Skills
+Experienced in REST API validation with Postman and SQL data verification.
 
-- Web/Mobile Test Automation with NTX
-- Web Test Automation with Cypress/JS
-- Postman/Endpoints
-- Azure DevOps
-- Jmeter
-- SQL for queries
-- Jira
-- Agile methodology
-- Trello
+Strong background in regression testing, functional validation, and UI verification.
+
+Comfortable working in Agile/Scrum environments and collaborating with cross-functional teams.
 
  
   
